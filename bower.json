@@ -1,0 +1,7 @@
+{
+	"name": "webart-uikit3",
+	"dependencies": {
+		"uikit": "*"
+	},
+	"private": true
+}
